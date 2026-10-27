@@ -3,5 +3,4 @@
 | 日期 | slug | 标题 | 路径 |
 |------|------|------|------|
 <!-- 自动化在此表追加新行，最新在下 -->
-
-_暂无条目，首批内容将由自动化写入 `figures/`。_
+| 2026-10-27 | `transformer` | 单相变压器结构与 T 型等效电路 | [figures/transformer/transformer.svg](figures/transformer/transformer.svg) |
