@@ -5,7 +5,7 @@
 | # | slug | 主题 | 状态 | 备注 |
 |---|------|------|------|------|
 | 1 | `transformer` | 单相变压器结构与等效电路 | done | T 型等效 |
-| 2 | `feeder` | 10 kV 辐射式馈线单线图 | todo | 含开关/负荷 |
+| 2 | `feeder` | 10 kV 辐射式馈线单线图 | done | 含开关/负荷 |
 | 3 | `control-block` | 单闭环负反馈控制框图 | todo | 通用模板 |
 | 4 | `pwm-carrier` | 三角载波比较生成 PWM | todo | SPWM |
 | 5 | `motor-equiv-circuit` | 异步电机 T 型等效电路 | todo |  |
