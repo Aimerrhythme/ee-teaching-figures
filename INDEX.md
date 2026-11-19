@@ -7,3 +7,4 @@
 | 2026-10-29 | `feeder` | 10 kV 辐射式馈线单线图 | [figures/feeder/feeder.svg](figures/feeder/feeder.svg) |
 | 2026-11-05 | `control-block` | 单闭环负反馈控制框图 | [figures/control-block/control-block.svg](figures/control-block/control-block.svg) |
 | 2026-11-12 | `pwm-carrier` | 三角载波比较生成 SPWM | [figures/pwm-carrier/pwm-carrier.svg](figures/pwm-carrier/pwm-carrier.svg) |
+| 2026-11-19 | `motor-equiv-circuit` | 异步电机 T 型等效电路 | [figures/motor-equiv-circuit/motor-equiv-circuit.svg](figures/motor-equiv-circuit/motor-equiv-circuit.svg) |

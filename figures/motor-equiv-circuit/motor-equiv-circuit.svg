@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" font-family="sans-serif, 'Noto Sans CJK SC', 'Microsoft YaHei'" font-size="15">
+<title>异步电机 T 型等效电路</title>
+<rect width="800" height="450" fill="#fff"/>
+<text x="400" y="32" text-anchor="middle" font-size="18" font-weight="bold">异步电机 T 型等效电路（折算到定子侧，单相）</text>
+<g fill="none" stroke="#222" stroke-width="2">
+<path d="M60 120 H110 M180 120 H240 M310 120 H500 M570 120 H640 M730 120 H750 V330 H60 V120"/>
+<rect x="110" y="104" width="70" height="32"/>
+<rect x="240" y="104" width="70" height="32"/>
+<rect x="500" y="104" width="70" height="32"/>
+<rect x="640" y="104" width="90" height="32" stroke="#1f6feb"/>
+<path d="M400 120 V160 M400 240 V330"/>
+<rect x="385" y="160" width="30" height="35"/>
+<rect x="385" y="205" width="30" height="35"/>
+</g>
+<g fill="#222"><circle cx="60" cy="120" r="4"/><circle cx="60" cy="330" r="4"/><circle cx="400" cy="120" r="3"/><circle cx="400" cy="330" r="3"/></g>
+<g text-anchor="middle">
+<text x="145" y="96">R₁</text><text x="275" y="96">jX₁σ</text>
+<text x="535" y="96">jX′₂σ</text><text x="685" y="96" fill="#1f6feb">R′₂ / s</text>
+<text x="40" y="228">U̇₁</text>
+</g>
+<text x="425" y="183">Rm</text><text x="425" y="228">jXm</text>
+<text x="130" y="160" fill="#d1242f">İ₁ →</text>
+<text x="575" y="160" fill="#d1242f">İ′₂ →</text>
+<text x="330" y="182" fill="#d1242f">İ₀ ↓</text>
+<text x="400" y="290" text-anchor="middle" font-size="13" fill="#555"></text>
+<text x="400" y="385" text-anchor="middle" fill="#1f6feb">R′₂/s = R′₂ + R′₂(1−s)/s，后一项为等效机械负载电阻（对应总机械功率）</text>
+<text x="400" y="415" text-anchor="middle">İ₁ = İ₀ + İ′₂ ；s 为转差率；Rm、Xm 为励磁支路</text>
+</svg>
