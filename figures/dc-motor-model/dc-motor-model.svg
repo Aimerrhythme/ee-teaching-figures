@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" font-family="sans-serif, 'Noto Sans CJK SC', 'Microsoft YaHei'" font-size="15" fill="#222" stroke="#222" stroke-width="2">
+<rect width="800" height="450" fill="#fff" stroke="none"/>
+<text x="400" y="30" text-anchor="middle" font-size="20" stroke="none">他励直流电机等效电路与转矩关系</text>
+<g fill="none">
+<path d="M80 100 H150"/><path d="M150 100 l8 -10 l8 20 l8 -20 l8 20 l8 -20 l8 10 H230" />
+<path d="M230 100 h10"/><path d="M240 100 c0 -14 16 -14 16 0 c0 -14 16 -14 16 0 c0 -14 16 -14 16 0 c0 -14 16 -14 16 0 H340"/>
+<path d="M340 100 H400"/><circle cx="400" cy="185" r="45"/><path d="M400 100 V140"/><path d="M400 230 V290 H80 V250"/>
+<path d="M80 100 V120"/><path d="M80 250 V210"/><circle cx="80" cy="165" r="45" stroke="none"/>
+</g>
+<text x="80" y="170" text-anchor="middle" stroke="none" fill="#1f6feb">U</text>
+<circle cx="80" cy="165" r="28" fill="none" stroke="#1f6feb"/>
+<text x="80" y="140" text-anchor="middle" stroke="none" font-size="12">+</text>
+<text x="190" y="82" text-anchor="middle" stroke="none">Ra</text>
+<text x="296" y="82" text-anchor="middle" stroke="none">La</text>
+<text x="400" y="190" text-anchor="middle" stroke="none" font-size="22">M</text>
+<text x="460" y="190" stroke="none" fill="#d1242f">E = Ke·Φ·n</text>
+<text x="120" y="88" stroke="none" fill="#1f6feb">Ia →</text>
+<text x="40" y="340" stroke="none">电枢回路：U = E + Ia·Ra + La·dIa/dt（稳态 La 项为 0）</text>
+<rect x="520" y="70" width="240" height="90" fill="none"/>
+<text x="640" y="95" text-anchor="middle" stroke="none" fill="#d1242f">转矩：T = Kt·Φ·Ia</text>
+<text x="640" y="120" text-anchor="middle" stroke="none">运动方程：T − TL = J·dω/dt</text>
+<text x="640" y="145" text-anchor="middle" stroke="none">功率：Pem = E·Ia = T·ω</text>
+<text x="40" y="375" stroke="none">机械特性：n = U/(KeΦ) − Ra·T/(Ke·Kt·Φ²)（U↓ 平行下移，Ra↑ 斜率变陡）</text>
+<text x="40" y="410" stroke="none" fill="#1f6feb" font-size="13">Φ：励磁磁通（他励，恒定）　Ke、Kt：电势/转矩常数　J：转动惯量　TL：负载转矩</text>
+</svg>

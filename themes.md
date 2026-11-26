@@ -9,7 +9,7 @@
 | 3 | `control-block` | 单闭环负反馈控制框图 | done | 通用模板 |
 | 4 | `pwm-carrier` | 三角载波比较生成 PWM | done | SPWM |
 | 5 | `motor-equiv-circuit` | 异步电机 T 型等效电路 | done |  |
-| 6 | `dc-motor-model` | 直流电机等效电路与转矩关系 | todo |  |
+| 6 | `dc-motor-model` | 直流电机等效电路与转矩关系 | done |  |
 | 7 | `three-phase-phasor` | 三相电压相量图 | todo | 星/三角 |
 | 8 | `buck-topology` | Buck 拓扑与开关状态 | todo | 两状态 |
 | 9 | `boost-topology` | Boost 拓扑与开关状态 | todo |  |

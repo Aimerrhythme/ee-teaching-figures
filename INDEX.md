@@ -8,3 +8,4 @@
 | 2026-11-05 | `control-block` | 单闭环负反馈控制框图 | [figures/control-block/control-block.svg](figures/control-block/control-block.svg) |
 | 2026-11-12 | `pwm-carrier` | 三角载波比较生成 SPWM | [figures/pwm-carrier/pwm-carrier.svg](figures/pwm-carrier/pwm-carrier.svg) |
 | 2026-11-19 | `motor-equiv-circuit` | 异步电机 T 型等效电路 | [figures/motor-equiv-circuit/motor-equiv-circuit.svg](figures/motor-equiv-circuit/motor-equiv-circuit.svg) |
+| 2026-11-26 | `dc-motor-model` | 直流电机等效电路与转矩关系 | [figures/dc-motor-model/dc-motor-model.svg](figures/dc-motor-model/dc-motor-model.svg) |
